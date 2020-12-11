@@ -1,0 +1,18 @@
+com/kapila/demo/repository/StudentRepository.java
+ com.kapila.demo.repository.StudentRepository
+com/kapila/demo/service/StudentService.java
+ com.kapila.demo.service.StudentService
+com/kapila/demo/controller/StudentRestController.java
+ com.kapila.demo.controller.StudentRestController
+com/kapila/demo/entity/Student.java
+ com.kapila.demo.entity.Student
+com/kapila/demo/exception/StudentNotFoundException.java
+ com.kapila.demo.exception.StudentNotFoundException
+com/kapila/demo/StudentManagementKapilaApplication.java
+ com.kapila.demo.StudentManagementKapilaApplication
+com/kapila/demo/exception/ExceptionResponse.java
+ com.kapila.demo.exception.ExceptionResponse
+com/kapila/demo/vo/StudentVo.java
+ com.kapila.demo.vo.StudentVo
+com/kapila/demo/exception/CustomizedResponseEntityExceptionHandler.java
+ com.kapila.demo.exception.CustomizedResponseEntityExceptionHandler

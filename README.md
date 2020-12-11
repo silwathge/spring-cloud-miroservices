@@ -35,7 +35,7 @@ As per the requirement its need to design and implement school student registrat
 ## Design Diagram  
 
  
-![picture alt](https://github.com/silwathge/spring-cloud-miroservices/blob/main/designdigram.PNG/200x150 "Design Diagram")
+![picture alt](https://github.com/silwathge/spring-cloud-miroservices/blob/main/designdigram.PNG "Design Diagram")
  
 
  
